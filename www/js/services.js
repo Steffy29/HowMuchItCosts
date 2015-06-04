@@ -24,11 +24,6 @@ angular.module('starter.services', [])
     name: 'Adam Bradleyson',
     lastText: 'I should buy a boat',
     face: 'https://pbs.twimg.com/profile_images/479090794058379264/84TKj_qa.jpeg'
-  }, {
-    id: 4,
-    name: 'Perry Governor',
-    lastText: 'Look at my mukluks!',
-    face: 'https://pbs.twimg.com/profile_images/491995398135767040/ie2Z_V6e.jpeg'
   }];
 
   return {
@@ -76,11 +71,6 @@ angular.module('starter.services', [])
     name: 'Adam Bradleyson',
     notes: 'I think he needs to buy a boat',
     face: 'https://pbs.twimg.com/profile_images/479090794058379264/84TKj_qa.jpeg'
-  }, {
-    id: 4,
-    name: 'Perry Governor',
-    notes: 'Just the nicest guy',
-    face: 'https://pbs.twimg.com/profile_images/491995398135767040/ie2Z_V6e.jpeg'
   }];
 
 
