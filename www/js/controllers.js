@@ -20,6 +20,7 @@ angular.module('starter.controllers', [])
 .controller('FriendDetailCtrl', function($scope, $stateParams, Friends) {
   $scope.friend = Friends.get($stateParams.friendId);
 })
+.controller('HowMuchCtrl', function($scope) {})
 
 .controller('AccountCtrl', function($scope) {
   $scope.settings = {
